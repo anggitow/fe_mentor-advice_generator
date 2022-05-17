@@ -49,7 +49,7 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className="text-sm text-center py-5 pt-24 bg-">
+      <footer className="text-sm text-center py-5 pt-24 md:pt-0">
         Challenge by{" "}
         <a
           href="https://www.frontendmentor.io?ref=challenge"
