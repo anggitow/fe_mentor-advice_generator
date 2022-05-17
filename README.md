@@ -1,3 +1,17 @@
+# Frontend Mentor - Advice generator app solution
+
+![Design preview for the Advice generator app coding challenge](./desktop-preview.jpg)
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Links
+
+- Live Site URL: [](https://advice-generator-app-aw.vercel.app/)
+
+## Built with
+
+- [ReactJS](https://reactjs.org/) - JS library
+- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
