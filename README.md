@@ -5,7 +5,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Links
 
-- Live Site URL: [Advice Generator App](https://advice-generator-app-aw.vercel.app/)
+- Live Site URL: [Advice Generator App](https://fe-mentor-aw-advice-generator.vercel.app)
 
 ## Built with
 
